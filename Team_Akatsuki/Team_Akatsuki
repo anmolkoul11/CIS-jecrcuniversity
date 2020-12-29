@@ -1,0 +1,14 @@
+//Description of the project//
+Our Idea is to help people who are in need of an emergency aid.We will provide an App which will utilize GPS location of user
+and contact nearest hospital in range.The Emergency Vehicles will be equipped with their own App that will help them
+reach the destination as soon as possible.
+
+//contect of directory//
+
+Currently our idea is presented through a ppt and we are currently working on the app locally .
+Submittion of app will be done as the testing phase is finished.
+
+// hosting project //
+there are many services that we can use to host our application
+we are utilizing Google Firebase for storage and handling queries,Google Android Studio for development locally and Google Cloud Services 
+for on-the-go.and as the Code is cross platform it can be published to various stores.
